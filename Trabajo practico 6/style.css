@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(127, 148, 194);
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+p{
+    font-size: 30px; 
+}
+
+button{
+    background-color: rgb(166, 199, 241);
+    padding: 10px;
+    border: none;
+    border-radius: 10%;
+}
+
+button:hover{
+    background-color: rgb(11, 23, 90);
+    transform: scale(1.1) rotate(2deg);
+}
+
+button{
+    transition: 0.5s;
+}
+
