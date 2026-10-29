@@ -50,4 +50,13 @@ console.log(productos.length);
 
 let tecnologia = ['Teclado', 'Mouse', 'Monitor', 'Auriculares', 'Webcam', 'Parlantes'];
 
-console.log('La posicion del mouse es '+tecnologia.indexOf('Mouse'))
+console.log('La posicion del Mouse es '+tecnologia.indexOf('Mouse'))
+console.log('La posicion del Monitor es '+tecnologia.indexOf('Monitor'))
+console.log('La posicion del Webcam es '+tecnologia.indexOf('Webcam'))
+console.log('La posicion del Impresora es '+tecnologia.indexOf('Impresora'))
+console.log('La posicion del Teclado es '+tecnologia.indexOf('Teclado'))
+let posteclado {
+    if (condition) {
+        
+    }
+}
